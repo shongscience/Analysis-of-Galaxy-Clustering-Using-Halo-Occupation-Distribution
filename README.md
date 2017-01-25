@@ -32,5 +32,5 @@ $ pip install git+git://github.com/steven-murray/halomod.git@develop
 
 I have put my all-in-one python script, as an example of how to use the 'halomod' package. 
 
-For the best fit parameters, this script also utilizes the Bayesian MCMC sampler, 'emcee'. 
+For the best fit parameters, this script also utilizes the Bayesian MCMC sampler, 'emcee'(http://dan.iel.fm/emcee/current/). 
 
