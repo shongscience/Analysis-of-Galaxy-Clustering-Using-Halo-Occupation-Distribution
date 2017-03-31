@@ -2,9 +2,9 @@
 
 I have been using the "halomod" python package for investigating the clustering properties of our Bootest LAEs.  
 
-===================
 1. HOW to install
 ===================
+
 Python Modules (Python 2.x) for Halo Occupation Models from Dr. Steven Murray (http://hmf.icrar.org/)
 
 == Install : 
@@ -26,7 +26,6 @@ $ pip install git+git://github.com/steven-murray/halomod.git@develop
 [shong@beethoven:~/work/pywork/halomodels/halomod-develop]$ pip install -e .
 
 
-=================
 2. HOW to run
 =================
 
