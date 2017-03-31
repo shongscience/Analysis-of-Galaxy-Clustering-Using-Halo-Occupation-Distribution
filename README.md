@@ -4,6 +4,7 @@ I have been using the "halomod" python package for investigating the clustering 
 
 ===================
 1. HOW to install
+
 ===================
 
 Python Modules (Python 2.x) for Halo Occupation Models from Dr. Steven Murray (http://hmf.icrar.org/)
@@ -29,6 +30,7 @@ $ pip install git+git://github.com/steven-murray/halomod.git@develop
 
 =================
 2. HOW to run
+
 =================
 
 I have put my all-in-one python script, as an example of how to use the 'halomod' package. 
