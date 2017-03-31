@@ -3,6 +3,7 @@
 I have been using the "halomod" python package for investigating the clustering properties of our Bootest LAEs.  
 
 ===================
+
 1. HOW to install
 
 ===================
@@ -29,6 +30,7 @@ $ pip install git+git://github.com/steven-murray/halomod.git@develop
 
 
 =================
+
 2. HOW to run
 
 =================
